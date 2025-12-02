@@ -1,0 +1,5 @@
+item_id,order_id,product,quantity,price
+9001,5001,Rice,2,1500
+9002,5001,Beans,1,800
+9003,5002,Yam,5,700
+9004,5004,Bread,3,500
